@@ -88,4 +88,5 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 # Output
-![image2](https://github.com/user-attachments/assets/cc13d9f5-f8f6-4c61-911e-cde504f2a4b9)
+![Screenshot 2024-09-24 112417](https://github.com/user-attachments/assets/89a9b440-2a74-4abf-a0ad-dc3dbd44706a)
+
